@@ -1,0 +1,5 @@
+@import url(bootstrap.css);
+
+.container {background-color : Gray;}
+
+body {background-image:url('.jpg');}
