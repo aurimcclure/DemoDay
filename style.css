@@ -1,4 +1,4 @@
-body background-image:url{(https://f.cloud.github.com/assets/5040652/1052778/3465c590-10e3-11e3-8142-d18bfb1f601b.jpg);}
+body {background-image:url(https://f.cloud.github.com/assets/5040652/1052778/3465c590-10e3-11e3-8142-d18bfb1f601b.jpg);}
 
 .container {background-color : Gray;}
 
